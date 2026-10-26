@@ -6,7 +6,13 @@
 /*   By: ailopez <ailopez@student.42urduliz.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/22 13:06:02 by ailopez           #+#    #+#             */
-/*   Updated: 2026/10/22 13:09:26 by ailopez          ###   ########.fr       */
+/*   Updated: 2026/10/26 15:35:48 by ailopez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libftprintf.h"
+
+int	ft_printf(char const *format, ...)
+{
+
+}
